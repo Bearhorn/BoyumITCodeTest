@@ -1,0 +1,14 @@
+c:\users\anders jensen\documents\visual studio 2015\Projects\Boyum IT code challenge\Boyum IT code challenge\bin\Debug\Boyum IT code challenge.exe.config
+c:\users\anders jensen\documents\visual studio 2015\Projects\Boyum IT code challenge\Boyum IT code challenge\obj\Debug\Boyum IT code challenge.csprojResolveAssemblyReference.cache
+c:\users\anders jensen\documents\visual studio 2015\Projects\Boyum IT code challenge\Boyum IT code challenge\obj\Debug\MainWindow.g.cs
+c:\users\anders jensen\documents\visual studio 2015\Projects\Boyum IT code challenge\Boyum IT code challenge\obj\Debug\App.g.cs
+c:\users\anders jensen\documents\visual studio 2015\Projects\Boyum IT code challenge\Boyum IT code challenge\obj\Debug\Boyum IT code challenge_MarkupCompile.cache
+c:\users\anders jensen\documents\visual studio 2015\Projects\Boyum IT code challenge\Boyum IT code challenge\obj\Debug\Boyum IT code challenge_MarkupCompile.lref
+C:\Users\Anders Jensen\documents\visual studio 2015\Projects\Boyum IT code challenge\Boyum IT code challenge\bin\Debug\Boyum IT code challenge.exe
+C:\Users\Anders Jensen\documents\visual studio 2015\Projects\Boyum IT code challenge\Boyum IT code challenge\bin\Debug\Boyum IT code challenge.pdb
+C:\Users\Anders Jensen\documents\visual studio 2015\Projects\Boyum IT code challenge\Boyum IT code challenge\obj\Debug\MainWindow.baml
+C:\Users\Anders Jensen\documents\visual studio 2015\Projects\Boyum IT code challenge\Boyum IT code challenge\obj\Debug\Boyum IT code challenge.g.resources
+C:\Users\Anders Jensen\documents\visual studio 2015\Projects\Boyum IT code challenge\Boyum IT code challenge\obj\Debug\Boyum_IT_code_challenge.Properties.Resources.resources
+C:\Users\Anders Jensen\documents\visual studio 2015\Projects\Boyum IT code challenge\Boyum IT code challenge\obj\Debug\Boyum IT code challenge.csproj.GenerateResource.Cache
+C:\Users\Anders Jensen\documents\visual studio 2015\Projects\Boyum IT code challenge\Boyum IT code challenge\obj\Debug\Boyum IT code challenge.exe
+C:\Users\Anders Jensen\documents\visual studio 2015\Projects\Boyum IT code challenge\Boyum IT code challenge\obj\Debug\Boyum IT code challenge.pdb

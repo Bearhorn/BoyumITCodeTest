@@ -1,0 +1,30 @@
+﻿<Window x:Class="Boyum_IT_code_challenge.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Boyum_IT_code_challenge"
+        mc:Ignorable="d"
+        Title="Boyum Challenge" Height="350" Width="525">
+    <Grid Background="LightGray">
+        <Label x:Name="lblInput" Content="Input XML" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtInput" HorizontalAlignment="Left" Height="23" Margin="80,14,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="320"/>
+        <Button x:Name="btnPickFile" Content="...
+                " HorizontalAlignment="Left" Margin="405,16,0,0" VerticalAlignment="Top" Width="22" Click="btnPickFile_Click"/>
+        <Button x:Name="btnProcess" Content="Process" HorizontalAlignment="Left" Margin="432,16,0,0" VerticalAlignment="Top" Width="75" Click="btnProcess_Click"/>
+        <GroupBox x:Name="grpbResult" Header="Result" HorizontalAlignment="Left" Margin="80,41,0,0" VerticalAlignment="Top" Height="268" Width="427" BorderThickness="1" BorderBrush="#FFA5ADB2">
+            <Grid HorizontalAlignment="Left" Height="258" VerticalAlignment="Top" Width="417" Margin="0,0,-2,-12">
+                <Label x:Name="lblId" Content="Id" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="lblOutputId" Content="-" HorizontalAlignment="Left" Margin="100,10,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="lblCustomer" Content="Customer" HorizontalAlignment="Left" Margin="10,35,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="lblOutputCustomer" Content="-" HorizontalAlignment="Left" Margin="100,35,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="lblDate" Content="Date" HorizontalAlignment="Left" Margin="10,60,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="lblOutputDate" Content="-" HorizontalAlignment="Left" Margin="100,60,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="lblAvgPrice" Content="Price Average" HorizontalAlignment="Left" Margin="10,85,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="lblOutputAvgPrice" Content="-" HorizontalAlignment="Left" Margin="100,85,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="lblTotal" Content="Total" HorizontalAlignment="Left" Margin="10,110,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="lblOutputTotal" Content="-" HorizontalAlignment="Left" Margin="100,110,0,0" VerticalAlignment="Top"/>
+            </Grid>
+        </GroupBox>
+    </Grid>
+</Window>
